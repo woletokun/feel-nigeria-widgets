@@ -1,0 +1,12 @@
+{
+  "name": "feel-nigeria-widgets",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.0.0",
+    "vite": "^4.0.0"
+  }
+}
